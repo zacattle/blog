@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: JAVAER
+title: zacattle
 subtitle: Java
 description: Java学习笔记
 keywords: java,spring,springboot,dubbo,mysql
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.5161718.com
+url: https://zacattle.netlify.app/
 permalink: :category/:year/:month/:title.html
 permalink_defaults: :category/:year/:month/:title.html
 pretty_urls:
