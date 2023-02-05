@@ -486,7 +486,7 @@ site_verification:
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 
-# theme_color:
+#theme_color:
 #   enable: true
 #   main: "#49B1F5"
 #   paginator: "#00c4b6"
@@ -520,10 +520,10 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: 
 
 # Footer Background
-footer_bg: false
+footer_bg: #FFFFFF
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
