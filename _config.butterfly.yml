@@ -523,7 +523,7 @@ tag_ui: # 留空或 index
 background: 
 
 # Footer Background
-footer_bg: #000000
+footer_bg: /img/fbg.png
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -653,7 +653,7 @@ preloader:
 
 aside:
   enable: true
-  hide: true
+  hide: false
   button: true
   mobile: true # display on mobile
   position: right # left or right
