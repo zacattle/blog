@@ -432,7 +432,7 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text: Hi, welcome to <a href="https://zacattle.netlify.app//">zacattle</a>!
+  custom_text: <a href="http://beian.miit.gov.cn/"><span>津ICP备2023004558号-1</span></a>
   copyright: true # Copyright of theme and framework
 
 # Analysis
