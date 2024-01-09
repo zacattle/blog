@@ -1,0 +1,15 @@
+命令连接：https://hexo.io/zh-cn/docs/commands
+常用命令：
+hexo clean 清除缓存
+hexo g 生成静态页
+hexo server 启动本地服务器
+
+
+新建文章：
+hexo new 英文(url名字出现在浏览器地址栏) "文章的标题"
+例子：hexo new "测试文章" 
+会生成  测试文章.html  的文章 标题是："测试文章" 
+
+hexo new "注解: @ConfigurationProperties和@PropertySources"
+
+

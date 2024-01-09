@@ -5,7 +5,7 @@ categories:
 - Guava
 - CaseFormat
 tags:
-- Reference
+- CaseFormat
 
 ---
 
